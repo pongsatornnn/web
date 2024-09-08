@@ -8,7 +8,11 @@ module.exports = {
     extend: {
       fontFamily : {
         angsana : ["Angsana New"],
-        notosansthai : ["Noto Sans Thai"]
+        notosansthai : ["Noto Sans Thai"],
+        saraban : ["Sarabun"],
+        mitr : ["Mitr"],
+        prompt : ["Prompt"] 
+
       }
     },
   },
