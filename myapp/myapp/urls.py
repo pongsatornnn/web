@@ -25,4 +25,5 @@ urlpatterns = [
     path('02', baknut),
     path('03', hoykom),
     path('04', creater),
+    path('05', cal),
 ]

@@ -14,3 +14,6 @@ def hoykom(request):
 
 def creater(request):
     return render(request, 'creater.html')
+
+def cal(request):
+    return render(request,"calory.html")
